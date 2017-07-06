@@ -1,4 +1,4 @@
-### NUTS level administrative division of the UK
+### NUTS level spatial division of the UK
 
 This repository consists of multiple shapefiles for the Nomenclature of Territorial Units for Statistics (NUTS) for:
 * United Kingdom (Great Britain and Northen Ireland) and 
